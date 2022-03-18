@@ -47,7 +47,7 @@ function Navbar() {
               </Link>
             </li>
             <li className="nav-options">
-              <Link to="/news" className="nav-links" onClick={closeMenu}>
+              <Link to="/nerdnews" className="nav-links" onClick={closeMenu}>
                 NerdNews
               </Link>
             </li>

@@ -25,7 +25,7 @@ function MainSection() {
           buttonStyle="btn--primary"
           buttonSize="btn--large"
         >
-          Watch <i className="fas fa-play-circle" />
+          Watch <i className="fas fa-video" />
         </Button>
       </div>
     </div>

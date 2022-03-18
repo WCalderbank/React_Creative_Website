@@ -14,15 +14,21 @@ video {
   align-items: center;
   box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
   object-fit: contain;
+  justify-content: center;
 }
 
 .main-title {
   color: white;
-  margin-top: 2rem;
+  font-size: 100px;
   margin-bottom: 1rem;
 }
 
 .main-sub {
   color: white;
+  font-size: 30px;
   margin-bottom: 2rem;
+}
+
+.main-btns .btn {
+  margin: 5px;
 }
